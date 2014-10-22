@@ -53,7 +53,7 @@ nav a:focus {
     left: 0;
     width: 100%;
     border-radius: 0;
-    box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+    box-shadow: 0 5px 5px rgba(0,0,0,0.3);
 }
 
 .nav-placeholder {
